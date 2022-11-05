@@ -6,7 +6,7 @@
   "dependencies": {
     "babel-preset-env": "^1.6.0",
     "create-react-class": "^15.6.2",
-    "gatsby": "^1.9.10",
+    "gatsby": "^3.0.0",
     "gatsby-link": "^1.6.13",
     "gatsby-plugin-canonical-urls": "^1.0.4",
     "gatsby-plugin-catch-links": "^1.0.6",
