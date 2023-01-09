@@ -75,7 +75,7 @@
     "home-config": "^0.1.0",
     "lodash": "^4.15.0",
     "mkdirp": "^0.5.1",
-    "precinct": "^3.8.0",
+    "precinct": "^4.1.0",
     "request": "^2.81.0",
     "squeezer-provider-node": "~0.0.4",
     "sync-exec": "^0.6.2",
@@ -83,7 +83,7 @@
     "templatestring": "^5.0.1",
     "update-notifier": "^1.0.2",
     "walk-sync": "^0.3.1",
-    "yaml-include": "^1.2.0"
+    "yaml-include": "^1.2.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",
