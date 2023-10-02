@@ -6,7 +6,7 @@
   "dependencies": {
     "babel-preset-env": "^1.6.0",
     "create-react-class": "^15.6.2",
-    "gatsby": "^1.9.10",
+    "gatsby": "^3.0.0",
     "gatsby-link": "^1.6.13",
     "gatsby-plugin-canonical-urls": "^1.0.4",
     "gatsby-plugin-catch-links": "^1.0.6",
@@ -30,7 +30,7 @@
     "gatsby-remark-smartypants": "^1.4.4",
     "gatsby-source-filesystem": "^1.4.7",
     "gatsby-transformer-documentationjs": "^1.4.3",
-    "gatsby-transformer-remark": "^1.7.4",
+    "gatsby-transformer-remark": "^6.0.0",
     "gatsby-transformer-sharp": "^1.6.2",
     "gatsby-transformer-yaml": "^1.5.5",
     "limax": "^1.7.0",
