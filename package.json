@@ -76,7 +76,7 @@
     "lodash": "^4.15.0",
     "mkdirp": "^0.5.1",
     "precinct": "^3.8.0",
-    "request": "^2.81.0",
+    "request": "^2.88.2",
     "squeezer-provider-node": "~0.0.4",
     "sync-exec": "^0.6.2",
     "tar": "^4.4.8",
