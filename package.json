@@ -79,7 +79,7 @@
     "request": "^2.81.0",
     "squeezer-provider-node": "~0.0.4",
     "sync-exec": "^0.6.2",
-    "tar": "^4.4.8",
+    "tar": "^6.2.1",
     "templatestring": "^5.0.1",
     "update-notifier": "^1.0.2",
     "walk-sync": "^0.3.1",
