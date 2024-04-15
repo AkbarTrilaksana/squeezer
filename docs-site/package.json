@@ -6,7 +6,7 @@
   "dependencies": {
     "babel-preset-env": "^1.6.0",
     "create-react-class": "^15.6.2",
-    "gatsby": "^1.9.10",
+    "gatsby": "^2.0.0",
     "gatsby-link": "^1.6.13",
     "gatsby-plugin-canonical-urls": "^1.0.4",
     "gatsby-plugin-catch-links": "^1.0.6",
@@ -34,7 +34,7 @@
     "gatsby-transformer-sharp": "^1.6.2",
     "gatsby-transformer-yaml": "^1.5.5",
     "limax": "^1.7.0",
-    "lodash": "^4.16.6",
+    "lodash": "^4.17.17",
     "prop-types": "^15.6.0",
     "query-string": "^5.0.1",
     "rc-progress": "^2.2.5",
