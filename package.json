@@ -68,22 +68,22 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "archiver": "^1.1.0",
+    "archiver": "^5.3.1",
     "bluebird": "^3.4.6",
     "colors": "^1.1.2",
     "fs-extra": "^2.0.0",
     "home-config": "^0.1.0",
     "lodash": "^4.15.0",
     "mkdirp": "^0.5.1",
-    "precinct": "^3.8.0",
+    "precinct": "^6.3.0",
     "request": "^2.81.0",
     "squeezer-provider-node": "~0.0.4",
     "sync-exec": "^0.6.2",
-    "tar": "^4.4.8",
+    "tar": "^6.0.0",
     "templatestring": "^5.0.1",
-    "update-notifier": "^1.0.2",
+    "update-notifier": "^7.3.0",
     "walk-sync": "^0.3.1",
-    "yaml-include": "^1.2.0"
+    "yaml-include": "^1.2.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",
