@@ -29,7 +29,7 @@
     "gatsby-remark-responsive-iframe": "^1.4.4",
     "gatsby-remark-smartypants": "^1.4.4",
     "gatsby-source-filesystem": "^1.4.7",
-    "gatsby-transformer-documentationjs": "^1.4.3",
+    "gatsby-transformer-documentationjs": "^4.9.0",
     "gatsby-transformer-remark": "^1.7.4",
     "gatsby-transformer-sharp": "^1.6.2",
     "gatsby-transformer-yaml": "^1.5.5",
